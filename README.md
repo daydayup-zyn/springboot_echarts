@@ -12,10 +12,6 @@ SpringBoot + Echarts 实现数据可视化
 -----
 
 #### 代码运行:
-
-* 从 GitHub 上获取代码
-
-  >1 git clone https://github.com/github3332422/SpringBoot-Echarts.git
   
 * s还有 Navicat 运行 SQL 文件
 
