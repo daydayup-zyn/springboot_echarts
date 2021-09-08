@@ -20,6 +20,7 @@ public class IndexController {
 
     @Autowired
     private IndexService indexService;
+
     /**
      * 柱状图
      * */
